@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Foodcheck</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+
+    <!-- Navigation Drawer menu labels -->
+    <string name="nav_home">Hem</string>
+    <string name="nav_photos">Inköpslistor</string>
+    <string name="nav_movies">Mina kort</string>
+    <string name="nav_notifications">Notifikationer</string>
+    <string name="nav_settings">Inställningar</string>
+    <string name="nav_about_us">Om oss</string>
+
+    <!-- Toolbar titles when navigation menu item is selected -->
+    <string-array name="nav_item_activity_titles">
+        <item>Hem</item>
+        <item>Inköpslistor</item>
+        <item>Mina kort</item>
+        <item>Notifikationer</item>
+        <item>Inställningar</item>
+    </string-array>
+
+    <string name="activity_title_about_us">Om oss</string>
+    <string name="activity_title_privacy_policy">Språk</string>
+    <string name="action_clear_all">Rensa allt</string>
+    <string name="action_logout">Logga ut</string>
+    <string name="action_mark_all_read">Markera som läst</string>
+    <string name="privacy_policy">Språk</string>
+    <string name="hemma_ikon">Hemma_ikon</string>
+    <string name="mina_kort">mina_kort</string>
+    <string name="ink_pslistor">inköpslistor</string>
+    <string name="notifikationer">Notifikationer</string>
+    <string name="inst_llningar">Inställningar</string>
+</resources>
