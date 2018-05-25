@@ -42,8 +42,8 @@ public class MainActivity extends AppCompatActivity {
 
     // urls to load navigation header background image
     // and profile image
-    private static final String urlNavHeaderBg = "http://api.androidhive.info/images/nav-menu-header-bg.jpg";
-    private static final String urlProfileImg = "https://lh3.googleusercontent.com/eCtE_G34M9ygdkmOpYvCag1vBARCmZwnVS6rS5t4JLzJ6QgQSBquM0nuTsCpLhYbKljoyS-txg";
+    private static final String urlNavHeaderBg = "https://www.beautycolorcode.com/ef6c00-2880x1800.png";
+    private static final String urlProfileImg = "https://media.istockphoto.com/vectors/the-face-old-man-profile-avatar-of-the-grandfather-vector-id884159218?k=6&m=884159218&s=612x612&w=0&h=-QpK284hiphoKmqLcqjBiqIZJfHn9M5sjuSvzHI7HkY=";
 
     // index to identify current nav menu item
     public static int navItemIndex = 0;
